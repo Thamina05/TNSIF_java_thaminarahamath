@@ -15,12 +15,12 @@ public class Square extends Shape_java{
 			super.area=side*side;		
 		}
 		public void show() {
-			show();
-			// TODO Auto-generated method stub
+			
 			
 		}
 		
-			// TODO Auto-generated method stub
 			
 		}
+		
+					
 

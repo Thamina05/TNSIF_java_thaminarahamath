@@ -16,7 +16,7 @@ public class Rectangle extends Shape_java {
 			area=width*height;
 		}
 		public void show() {
-			show();
+		
 			// TODO Auto-generated method stub
 			
 		}

@@ -18,12 +18,13 @@ public class Shape_java {
 	void calArea() {
 		calArea();		
 	}
+
 	public void show() {
-		show();
-		show();
+		
 		
 	}
-}
+	
+	}
 
 
 	
