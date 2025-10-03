@@ -1,5 +1,5 @@
 package basics.java;
-import java.util.LinkedList ;
+
 
 public class FirstProgram {
 
