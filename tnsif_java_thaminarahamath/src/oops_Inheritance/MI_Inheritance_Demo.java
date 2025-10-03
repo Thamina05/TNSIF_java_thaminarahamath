@@ -2,6 +2,7 @@ package oops_Inheritance;
 import java.util.Date;
 
 public class MI_Inheritance_Demo {
+	
 	@SuppressWarnings("deprecation")
 	public static void main(String[] args) {
 				
